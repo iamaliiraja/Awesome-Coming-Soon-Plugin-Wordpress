@@ -1,7 +1,6 @@
 
 === Awesome Coming Soon ===
 Contributors:iamaliiraja
-Donate link: http://wwww.hashwp.com
 Tags: comingsoon, landing page, mantaince mode 
 Requires at least: 3.0.1
 Tested up to: 4.2.2
@@ -57,6 +56,6 @@ Manual Installation
 * Plugin Submitted.
 * Background image and colour features added,
 
-#Sponsors
+# Sponsors
 
 [TikTokFame](https://tiktokfame.co/buy-tiktok-followers/)
