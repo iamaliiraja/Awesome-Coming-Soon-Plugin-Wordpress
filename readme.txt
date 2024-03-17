@@ -58,4 +58,4 @@ Manual Installation
 
 #Sponsors
 
-[TikTokFame] (https://tiktokfame.co/buy-tiktok-followers/)
+[TikTokFame](https://tiktokfame.co/buy-tiktok-followers/)
