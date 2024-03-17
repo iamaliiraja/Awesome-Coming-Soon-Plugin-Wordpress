@@ -55,3 +55,7 @@ Manual Installation
 
 * Plugin Submitted.
 * Background image and colour features added,
+
+#Sponsors
+
+[TikTokFame] (https://tiktokfame.co/buy-tiktok-followers/)
