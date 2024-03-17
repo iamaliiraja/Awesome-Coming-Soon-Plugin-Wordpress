@@ -54,5 +54,4 @@ Manual Installation
 
 # Sponsors
 
-
-![313463899-0e22908e-482f-447a-92b3-62caf5e06679](https://tiktokfame.co/buy-tiktok-likes/)
+[<img src="https://github.com/iamaliiraja/Awesome-Coming-Soon-Plugin-Wordpress/assets/8590521/f9bde78a-f808-4908-b7dc-df0be6c59477" alt="Buy TikTok Likes">](https://tiktokfame.co/buy-tiktok-likes/)
